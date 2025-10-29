@@ -100,7 +100,7 @@ xmagic --besd-flist myxqtl.list --gwas-summary mygwas.ma --bfile myldref --e2g-f
 xMAGIC shares data formats with SMR. For full options, see [SMR documentation](https://yanglab.westlake.edu.cn/software/smr/). Curated xQTL datasets (428 total) can be downloaded from the yanglab website. Functional element-to-gene maps can be downloaded from the yanglab website.
 
 ## Online analysis
-An online platform for xMAGIC is available at http://yanglab.westlake.edu.cn/xmagic, which requires only the upload of GWAS summary statistics.
+An online platform for xMAGIC is available at http://yanglab.westlake.edu.cn/software/xMAGIC, which requires only the upload of GWAS summary statistics.
 
 ## Citation
 Qi T, Guo Y, Chen C, Xu T, Luo J, Jiang Z, Chen H, Guo M, Wang K, Hou J, Yang J. (2025). Integrative analysis of hundreds of multi-omic and cross-context xQTL datasets links over three-quarters of GWAS loci to putative effector genes. Under Review.
