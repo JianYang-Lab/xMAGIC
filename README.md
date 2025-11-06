@@ -75,7 +75,7 @@ caQTL_Blood	example_data/xQTL_data/caQTL_Blood_chr	TRUE	epigenetic
 1. **QTL name** — for expression QTLs, use the prefix `eQTL_*`; for splicing QTLs, use `sQTL_*`, etc.
 2. **Path** — path to the BESD-formatted QTL file. 
 	It is recommended to use **absolute paths** to avoid issues when running the program from different working directories.
-3. **Chromosome split flag** — `TRUE` if the QTL files are split by chromosome, `FALSE` otherwise.
+3. **Chromosome split flag** — `TRUE` if the xQTL datasets are split by chromosome, `FALSE` otherwise.
 4. **QTL type** — either `gene` or `epigenetic`. For entries marked as `epigenetic`, a probe-to-gene link file is required so that signals can be mapped to target genes, please see the `--e2g-flist` flag.
 
 ### `--gwas-summary` 
