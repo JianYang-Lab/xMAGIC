@@ -1,12 +1,14 @@
 # xMAGIC
 
-| __Status__     | [![Project Status][status-badge]][status-url] [![Maintenance][maintenance-badge]][maintenance-url] |
+|                | 																										|
+| -------------- | ---------------------------------------------------------------------------------------------------- |
+| __Status__     | [![Project Status][status-badge]][status-url] [![Maintenance][maintenance-badge]][maintenance-url]   |
 | __Activity__   | [![GitHub commits][commits-badge]][commits-url] [![Last Commit][last-commit-badge]][last-commit-url] |
-| __Community__  | [![GitHub stars][stars-badge]][stars-url] [![GitHub forks][forks-badge]][forks-url] |
-| __Downloads__  | [![Downloads][downloads-badge]][downloads-url] |
-| __License__    | [![License: MIT][license-badge]][license-url] |
-| __Platform__   | [![Linux][linux-badge]][linux-url] |
-| __Contribute__ | [![Issues][issues-badge]][issues-url] [![PRs Welcome][pr-badge]][pr-url] |
+| __Community__  | [![GitHub stars][stars-badge]][stars-url] [![GitHub forks][forks-badge]][forks-url] 				    |
+| __Downloads__  | [![Downloads][downloads-badge]][downloads-url] 														|
+| __License__    | [![License: MIT][license-badge]][license-url] 														|
+| __Platform__   | [![Linux][linux-badge]][linux-url] 																	|
+| __Contribute__ | [![Issues][issues-badge]][issues-url] [![PRs Welcome][pr-badge]][pr-url] 							|
 
 
 xMAGIC is a scalable method designed to integrate a large number of multi-omic xQTL datasets across diverse biological contexts with genome-wide association studies (GWAS) summary statistics. By linking epigenetic marks to target genes using multiple complementary approaches (e.g., chromatin interaction maps, pleiotropy association analysis) and combining association signals from expression and epigenetic phenotypes into a unified gene-trait association test, xMAGIC facilitates the identification of putative effector genes for 75.4% of GWAS loci, as demonstrated in an analysis of 45 human complex traits and 428 xQTL datasets, providing mechanistic insights into genetic associations.
