@@ -1,5 +1,14 @@
 # xMAGIC
 
+| __Status__     | [![Project Status][status-badge]][status-url] [![Maintenance][maintenance-badge]][maintenance-url] |
+| __Activity__   | [![GitHub commits][commits-badge]][commits-url] [![Last Commit][last-commit-badge]][last-commit-url] |
+| __Community__  | [![GitHub stars][stars-badge]][stars-url] [![GitHub forks][forks-badge]][forks-url] |
+| __Downloads__  | [![Downloads][downloads-badge]][downloads-url] |
+| __License__    | [![License: MIT][license-badge]][license-url] |
+| __Platform__   | [![Linux][linux-badge]][linux-url] |
+| __Contribute__ | [![Issues][issues-badge]][issues-url] [![PRs Welcome][pr-badge]][pr-url] |
+
+
 xMAGIC is a scalable method designed to integrate a large number of multi-omic xQTL datasets across diverse biological contexts with genome-wide association studies (GWAS) summary statistics. By linking epigenetic marks to target genes using multiple complementary approaches (e.g., chromatin interaction maps, pleiotropy association analysis) and combining association signals from expression and epigenetic phenotypes into a unified gene-trait association test, xMAGIC facilitates the identification of putative effector genes for 75.4% of GWAS loci, as demonstrated in an analysis of 45 human complex traits and 428 xQTL datasets, providing mechanistic insights into genetic associations.
 
 ![MAGIC_figure](figure/MAGIC.png)
@@ -180,3 +189,36 @@ Qi T, Guo Y, Chen C, Xu T, Luo J, Jiang Z, Chen H, Guo M, Wang K, Hou J, Yang J.
 
 ## Contact
 Ting Qi (ting.qi@sinh.ac.cn) or Jian Yang (jian.yang@westlake.edu.cn).
+
+<!-- Badge links -->
+
+[status-badge]: https://www.repostatus.org/badges/latest/active.svg
+[status-url]: https://www.repostatus.org/#active
+[maintenance-badge]: https://img.shields.io/badge/Maintained%3F-yes-green.svg
+[maintenance-url]: https://github.com/JianYang-Lab/xMAGIC/graphs/commit-activity
+
+[commits-badge]: https://img.shields.io/github/commit-activity/m/JianYang-Lab/xMAGIC
+[commits-url]: https://github.com/JianYang-Lab/xMAGIC/commits/main
+[last-commit-badge]: https://img.shields.io/github/last-commit/JianYang-Lab/xMAGIC
+[last-commit-url]: https://github.com/JianYang-Lab/xMAGIC/commits/main
+
+[stars-badge]: https://img.shields.io/github/stars/JianYang-Lab/xMAGIC
+[stars-url]: https://github.com/JianYang-Lab/xMAGIC/stargazers
+[forks-badge]: https://img.shields.io/github/forks/JianYang-Lab/xMAGIC
+[forks-url]: https://github.com/JianYang-Lab/xMAGIC/network/members
+
+[downloads-badge]: https://static.pepy.tech/badge/xMAGIC
+[downloads-url]: https://pepy.tech/project/xMAGIC
+
+[license-badge]: https://img.shields.io/badge/License-MIT-yellow.svg
+[license-url]: https://opensource.org/licenses/MIT
+<!-- [doi-badge]: https://img.shields.io/badge/DOI-10.1038%2Fs41586--025--08757--x-blue
+[doi-url]: https://doi.org/10.1038/s41586-025-08757-x -->
+
+[linux-badge]: https://img.shields.io/badge/Linux-%E2%9C%93-success
+[linux-url]: https://github.com/JianYang-Lab/xMAGIC/actions/workflows/test_linux.yml
+
+[issues-badge]: https://img.shields.io/github/issues/JianYang-Lab/xMAGIC
+[issues-url]: https://github.com/JianYang-Lab/xMAGIC/issues
+[pr-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg
+[pr-url]: https://github.com/JianYang-Lab/xMAGIC/pulls
